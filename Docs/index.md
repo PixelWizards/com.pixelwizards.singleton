@@ -6,13 +6,9 @@ Example:
 
 ``public class MySingleton: Singleton<MySingleton>`
 `{`
-
-​		`public void DoSomething()`
-
-​		`{`
-
-​		`}`
-
+	`public void DoSomething()`
+		`{`
+  	`}`
 `}`
 
 You can now reference the singleton via it's instance like so:
