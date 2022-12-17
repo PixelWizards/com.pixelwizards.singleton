@@ -36,7 +36,7 @@ Prerequistes
 
 ## Documentation
 
-- [View Documentation](docs/index.md)
+- [View Documentation](/docs/index.md)
 
 Content
 ----------------
